@@ -1,6 +1,10 @@
 ### Hello!
 <!-- <img align='right' src='https://github-readme-stats.vercel.app/api?username=dtso-i&show_icons=true' /> = github stats -->
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 I'm a high school student in the States from Hong Kong. I am a math enthusiast but not proficient in any aspects of computer science. So, I am eager to learn anything about full stacking , cyber security, app/game development, and more!
 <hr/>
 
