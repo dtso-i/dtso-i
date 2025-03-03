@@ -2,15 +2,18 @@
 
 [![wakatime](https://wakatime.com/badge/user/c921ee97-b047-496e-b43f-a10715c8f674.svg)](https://wakatime.com/@c921ee97-b047-496e-b43f-a10715c8f674)
 
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=dtso-i&show_icons=true&hide_border=true&hide=contribs&theme=apprentice&hide_title=true&number_format=short' />
-
-I'm a high school student in the States from Hong Kong. I am a math enthusiast but not as proficient in any aspects of computer science. So, I am eager to learn anything about full stacking , cyber security, software development, neural networks, and more!
+<div style='position:relative;'>
+  <img align='right' style='position:absolute;' src='https://github-readme-stats.vercel.app/api?username=dtso-i&show_icons=true&hide_border=true&hide=contribs&theme=apprentice&hide_title=true&number_format=short' />
+  <p align='left' style='position:absolute;'>I'm a high school student in the States from Hong Kong. I am a math enthusiast but not as proficient in any aspects of computer science. So, I am eager to learn anything about full stacking , cyber security, software development, neural networks, and more!</p>
+  <br/> <br/>
+  <img align='right' style='position:absolute;'  width=465px heigh=190px style='background-size:cover; background-position:top center;' src='https://leetcard.jacoblin.cool/alwaysprogram?border=0&theme=nord&hide=ranking,username,icon' />
+</div>
 
 **Contacts:**
 + Email: <alwaysprogram@gmail.com>
 + Discord: @alwaysdid
 
-<br/>
+<br/><br/>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -61,13 +64,3 @@ I'm a high school student in the States from Hong Kong. I am a math enthusiast b
 ![MacOS](https://shields.io/badge/MacOS--9cf?style=for-the-badge)
 
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dtso-i&layout=compact'/> -->
-
-<hr/>
-
-### 
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
--->
