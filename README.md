@@ -2,23 +2,6 @@
 <!-- <img align='right' src='https://github-readme-stats.vercel.app/api?username=dtso-i&show_icons=true' /> = github stats -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 191 Bytes Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
 
 ```text
 🌞 Morning                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
