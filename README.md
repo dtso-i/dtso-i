@@ -4,7 +4,7 @@
 
 <div style='position:relative;'>
   <img align='right' style='position:absolute;' src='https://github-readme-stats.vercel.app/api?username=dtso-i&show_icons=true&hide_border=true&hide=contribs&theme=apprentice&hide_title=true&number_format=short' />
-  <p align='left' style='position:absolute;'>I'm a high school student in the States from Hong Kong. I am a math enthusiast but not as proficient in computer science. So, I am eager to learn anything about full stacking , cyber security, software development, neural networks, and more!</p>
+  <p align='left' style='position:absolute;'>I'm a high school student in the States from Hong Kong. I am a math enthusiast but not as proficient in computer science. So, I am eager to learn anything about full stacking, cyber security, software development, neural networks, and more!</p>
   <br/> <br/>
   <img align='right' style='position:absolute;'  width=465px heigh=190px style='background-size:cover; background-position:top center;' src='https://leetcard.jacoblin.cool/alwaysprogram?border=0&theme=nord&hide=ranking,username,icon' />
 </div>
