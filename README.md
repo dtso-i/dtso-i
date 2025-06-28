@@ -55,16 +55,19 @@
 
 **Tools**
 
+![Chart.js](https://img.shields.io/badge/-chart.js-fe6382?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MonoGame](https://img.shields.io/badge/-monogame-e63c00?style=for-the-badge&logo=monogame&logoColor=white)
+![Ungoogled Chromium](https://img.shields.io/badge/-chromium-2e7ced?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 **Operating Systems**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![MacOS](https://shields.io/badge/MacOS--9cf?style=for-the-badge)
+![Kali](https://img.shields.io/badge/Kali-527c98?style=for-the-badge&logo=kalilinux&logoColor=white&color=527c98)
+![MacOS](https://shields.io/badge/MacOS--9cf?style=for-the-badge&logo=macOS)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dtso-i&layout=compact'/> -->
