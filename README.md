@@ -4,14 +4,13 @@
 
 <div style='position:relative;'>
   <img align='right' style='position:absolute;' src='https://github-readme-stats.vercel.app/api?username=dtso-i&show_icons=true&hide_border=true&hide=contribs&theme=apprentice&hide_title=true&number_format=short' />
-  <p align='left' style='position:absolute;'>I'm a high school student in the States from Hong Kong. I am a math enthusiast but not as proficient in computer science. So, I am eager to learn anything about full stacking, cyber security, software development, neural networks, and more!</p>
+  <p align='left' style='position:absolute;'>I'm a high school student in the States from Hong Kong, a math and computer science enthusiast. And, I am eager to learn anything about full stacking, cyber security, software development, neural networks, and others!</p>
   <br/> <br/>
   <img align='right' style='position:absolute;'  width=465px heigh=190px style='background-size:cover; background-position:top center;' src='https://leetcard.jacoblin.cool/alwaysprogram?border=0&theme=nord&hide=ranking,username,icon' />
 </div>
 
-**Contacts:**
+**Contact:**
 + Email: <alwaysprogram@gmail.com>
-+ Discord: @alwaysdid
 
 <br/><br/>
 
@@ -69,5 +68,6 @@
 ![Kali](https://img.shields.io/badge/Kali-527c98?style=for-the-badge&logo=kalilinux&logoColor=white&color=527c98)
 ![MacOS](https://shields.io/badge/MacOS--9cf?style=for-the-badge&logo=macOS)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- https://img.shields.io/badge/Void-222222?style=for-the-badge&logo=voidlinux -->
 
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dtso-i&layout=compact'/> -->
