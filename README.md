@@ -15,6 +15,8 @@
 <br/><br/>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2049%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -24,6 +26,12 @@
 🌙 Night                  7 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 
 <!--END_SECTION:waka-->
