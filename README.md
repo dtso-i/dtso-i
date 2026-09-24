@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/c921ee97-b047-496e-b43f-a10715c8f674.svg)](https://wakatime.com/@c921ee97-b047-496e-b43f-a10715c8f674)
 
 <div style='position:relative;'>
-  <p align='left' style='position:absolute;'>I'm a university undergraduate student from Hong Kong at UC Irvine majoring in pure mathematics and computer science. Currently, I'm interested in geometric topology and operator theory. And, I am eager to learn anything about full stacking, cyber security, neural networks, and others!</p>
+  <p align='left' style='position:absolute;'>I'm a university undergraduate student from Hong Kong at UC Irvine majoring in pure mathematics and computer science. Currently, I'm interested in geometric topology and operator theory, and I am eager to learn anything about full stacking, cyber security, neural networks, and others!</p>
   <br/> <br/>
   <img align='right' style='position:absolute;'  width=465px heigh=190px style='background-size:cover; background-position:top center;' src='https://leetcard.jacoblin.cool/alwaysprogram?border=0&theme=nord&hide=ranking,username,icon' />
 </div>
