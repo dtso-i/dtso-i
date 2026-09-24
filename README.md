@@ -3,8 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/c921ee97-b047-496e-b43f-a10715c8f674.svg)](https://wakatime.com/@c921ee97-b047-496e-b43f-a10715c8f674)
 
 <div style='position:relative;'>
-  <img align='right' style='position:absolute;' src='https://github-readme-stats.vercel.app/api?username=dtso-i&show_icons=true&hide_border=true&hide=contribs&theme=apprentice&hide_title=true&number_format=short' />
-  <p align='left' style='position:absolute;'>I'm a high school student in the States from Hong Kong, a math and computer science enthusiast. And, I am eager to learn anything about full stacking, cyber security, software development, neural networks, and others!</p>
+  <p align='left' style='position:absolute;'>I'm a university undergraduate student from Hong Kong at UC Irvine majoring in pure mathematics and computer science. Currently, I'm interested in geometric topology and operator theory. And, I am eager to learn anything about full stacking, cyber security, neural networks, and others!</p>
   <br/> <br/>
   <img align='right' style='position:absolute;'  width=465px heigh=190px style='background-size:cover; background-position:top center;' src='https://leetcard.jacoblin.cool/alwaysprogram?border=0&theme=nord&hide=ranking,username,icon' />
 </div>
