@@ -29,15 +29,15 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (17.5%)
+⏱ AI Coding Time: 58 mins (12.32%)
 
-✍️ 0 lines written by AI, 900 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 934 lines written by hand (0.0% AI-written)
 
-🔤 176,228 Input Tokens, 2,712 Output Tokens
+🔤 150,340 Input Tokens, 2,276 Output Tokens
 
-💵 $0.57 Estimated AI Cost This Week
+💵 $0.49 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 15 AI Prompts
+🧠 9 AI Sessions, 14 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
