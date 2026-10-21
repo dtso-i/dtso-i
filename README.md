@@ -29,22 +29,22 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (12.32%)
+⏱ AI Coding Time: 31 mins (16.94%)
 
-✍️ 0 lines written by AI, 934 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 233 lines written by hand (0.0% AI-written)
 
-🔤 150,340 Input Tokens, 2,276 Output Tokens
+🔤 28,373 Input Tokens, 616 Output Tokens
 
-💵 $0.49 Estimated AI Cost This Week
+💵 $0.12 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 14 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 154 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
