@@ -16,16 +16,54 @@
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2059%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.28%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                15 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-🌆 Daytime                15 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-🌃 Evening                26 commits          ██████████░░░░░░░░░░░░░░░   40.62 % 
-🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌞 Morning                15 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌆 Daytime                15 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌃 Evening                28 commits          ███████████░░░░░░░░░░░░░░   42.42 % 
+🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 ```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   18 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Tuesday                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Wednesday                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Thursday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Sunday                   18 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 35 mins (6.51%)
+
+✍️ 0 lines written by AI, 648 lines written by hand (0.0% AI-written)
+
+🔤 5,330,773 Input Tokens, 465,616 Output Tokens
+
+💵 $2.41 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 5 AI Prompts
+
+GPT                      2 lines             █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 136 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 99.79% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
