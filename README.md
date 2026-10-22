@@ -5,11 +5,13 @@
 <div style='position:relative;'>
   <p align='left' style='position:absolute;'>I'm a university undergraduate student from Hong Kong at UC Irvine majoring in pure mathematics and computer science. Currently, I'm interested in geometric topology and operator theory, and I am eager to learn anything about full stacking, cyber security, neural networks, and others!</p>
   <br/> <br/>
-  <img align='right' style='position:absolute;'  width=465px heigh=190px style='background-size:cover; background-position:top center;' src='https://leetcard.jacoblin.cool/alwaysprogram?border=0&theme=nord&hide=ranking,username,icon' />
+  <img align='right' style='position:absolute;'  width=465px heigh=190px style='background-size:cover; background-position:top center;' src='https://leetcode-stats-six.vercel.app/api?username=alwaysprogram' />
 </div>
 
 **Contact:**
-+ Email: <alwaysprogram@gmail.com>
++ Email: tsoid1@uci.edu
++ Alt. Email: <alwaysprogram@gmail.com>
+  
 
 <br/><br/>
 
@@ -24,30 +26,6 @@
 🌃 Evening                26 commits          ██████████░░░░░░░░░░░░░░░   40.62 % 
 🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 31 mins (16.94%)
-
-✍️ 0 lines written by AI, 233 lines written by hand (0.0% AI-written)
-
-🔤 28,373 Input Tokens, 616 Output Tokens
-
-💵 $0.12 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 4 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 154 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
@@ -88,9 +66,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 **Operating Systems**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-527c98?style=for-the-badge&logo=kalilinux&logoColor=white&color=527c98)
 ![MacOS](https://shields.io/badge/MacOS--9cf?style=for-the-badge&logo=macOS)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<!-- https://img.shields.io/badge/Void-222222?style=for-the-badge&logo=voidlinux -->
 
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dtso-i&layout=compact'/> -->
