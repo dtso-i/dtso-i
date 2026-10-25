@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -33,23 +33,23 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.69%)
+⏱ AI Coding Time: 16 mins (3.25%)
 
-✍️ 0 lines written by AI, 864 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 789 lines written by hand (0.0% AI-written)
 
 🔤 6,893,120 Input Tokens, 604,500 Output Tokens
 
 💵 $2.97 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 GPT                      2 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 67 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.85% of changed lines were hand-edited
+📚 Verbose Prompter — average 3,545 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.84% of changed lines were hand-edited
 ```
 
 
