@@ -16,40 +16,40 @@
 <br/><br/>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.28%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                15 commits          ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-🌆 Daytime                15 commits          ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-🌃 Evening                29 commits          ███████████░░░░░░░░░░░░░░   43.28 % 
-🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌞 Morning                15 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+🌆 Daytime                16 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌃 Evening                29 commits          ███████████░░░░░░░░░░░░░░   42.65 % 
+🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (3.67%)
+⏱ AI Coding Time: 59 mins (7.47%)
 
-✍️ 0 lines written by AI, 838 lines written by hand (0.0% AI-written)
+✍️ 6 lines written by AI, 6,536 lines written by hand (0.09% AI-written)
 
-🔤 9,851,534 Input Tokens, 726,138 Output Tokens
+🔤 11,405,967 Input Tokens, 908,108 Output Tokens
 
-💵 $3.85 Estimated AI Cost This Week
+💵 $4.75 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
-GPT                      2 lines             █████████████████████████   100.00 % 
+GPT                      8 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,545 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.85% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.09% of written lines came from AI
+📚 Verbose Prompter — average 2,865 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
 ```
 
 
