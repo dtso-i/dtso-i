@@ -33,9 +33,9 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (12.01%)
+⏱ AI Coding Time: 56 mins (17.53%)
 
-✍️ 6 lines written by AI, 6,178 lines written by hand (0.1% AI-written)
+✍️ 6 lines written by AI, 5,808 lines written by hand (0.1% AI-written)
 
 🔤 5,135,763 Input Tokens, 315,816 Output Tokens
 
