@@ -21,7 +21,6 @@ jobs:
           ### content
           SECTION_NAME: waka
           BLOCKS: ░▒▓█
-          TIME_RANGE: all_time
           LANG_COUNT: 5
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: YAML JSON TOML
