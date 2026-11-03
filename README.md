@@ -16,10 +16,6 @@
 <br/><br/>
 
 <!--START_SECTION:waka-->
-```text
-⌚ Today I coded for 0 secs.
-🧠 Primary focus: No tracked coding yet.
-```
 <!--END_SECTION:waka-->
 
 <hr/>
