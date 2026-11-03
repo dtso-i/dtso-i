@@ -7,6 +7,9 @@ on:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -21,6 +24,7 @@ jobs:
           ### content
           SECTION_NAME: waka
           BLOCKS: ░▒▓█
-          LANG_COUNT: 5
+          LANG_COUNT: 0
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: YAML JSON TOML
+          AI_CODING_TIME: true
