@@ -16,6 +16,11 @@
 <br/><br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 9 hrs 5 mins
+```
+
 <!--END_SECTION:waka-->
 
 <hr/>
