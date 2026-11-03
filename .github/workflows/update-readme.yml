@@ -18,7 +18,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: dtsoi/dtsoi
+          REPOSITORY: dtso-i/dtso-i
           ### content
           SECTION_NAME: waka
           BLOCKS: ░▒▓█
