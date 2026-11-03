@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 5 mins
+Python       7 hrs 33 mins         ████████████████████▓░░░░   83.09 %
+TeX          51 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+JavaScript   29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 ```
 
 <!--END_SECTION:waka-->
